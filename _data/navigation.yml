@@ -18,7 +18,8 @@ main:
   - title: "召集"
     url: /cv/
     
-  - title: "讨论区"
+  - title: "指南"
     url: /markdown/
 
-  
+  - title: "讨论区"
+    url: https://support.qq.com/products/150896/
