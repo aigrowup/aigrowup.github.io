@@ -1,24 +1,24 @@
 # main links links
 main:
-  - title: "论文发表情况"
+  - title: "同学说"
     url: /publications/
 
-  - title: "演讲"
+  - title: "师兄师姐说"
     url: /talks/    
 
-  - title: "教学"
+  - title: "训练营"
     url: /teaching/    
     
-  - title: "组合"
+  - title: "成长风采"
     url: /portfolio/
         
-  - title: "博客归档"
+  - title: "服务"
     url: /year-archive/
     
-  - title: "简介"
+  - title: "关于"
     url: /cv/
     
-  - title: "语法指南"
+  - title: "指南"
     url: /markdown/
 
   - title: "社区"
