@@ -20,18 +20,26 @@ redirect_from:
 爱成长是一个公益社区，我们提供学生走向社会工作，需学习的常识、方法、思维和经验等分享交流。
 
 
+团队(Who)
+======
+我们是一群来自 中山大学、华南理工大学、广东技术师范大学等多所高校的公益爱好者。
+我们获得过公益资助。我们也资助过许多在校学子。
+我们都有一颗公益的心，用自己力所能及的资源，为学子提供力所能及的支持。
+
+
 如何做(How)
 ======
+1. 识别个人优势,在培训中让同学了解自己个性，认知自我优势;
+2. 同学说，通过优秀同学的分享，了解学习方法与思路;
+3. 师兄师姐说，通过职场人士的分享，了解企业是如何发展的;
+4. 成长训练营，在活动中，参与小组共创，掌握协作、互动技能;
+5. ...
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+从多维度交流、分享、活动..., 形成学生【个体-团队-企业】的互动闭环，促进同学的多维思考与成长。
 
 
-
-For more info
-------
-More in 
+如何参与
+======
+1. 志愿者召集中,欢迎热爱公益的小伙伴报名。
+2. 成长训练营召集中，欢迎在校学子报名。
+(请访问在线论坛报名: https://support.qq.com/products/150896/)
