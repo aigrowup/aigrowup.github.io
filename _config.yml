@@ -9,9 +9,9 @@
 locale                   : "zh-CN"
 title                    : "爱成长"
 title_separator          : "-"
-name                     : &name "爱成长"
-description              : &description "大学生成长创新社区"
-url                      : https://aigrowup.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "爱成长" #&name 
+description              :  "大学生成长创新社区" #&description
+url                      : https://aigrowup.github.io # the base e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aigrowup/aigrowup.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
