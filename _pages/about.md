@@ -63,4 +63,4 @@ redirect_from:
 ======
 1. 志愿者召集中,欢迎热爱公益的小伙伴报名。
 2. 成长训练营召集中，欢迎在校学子报名。
-(请访问在线论坛报名: <A href='https://support.qq.com/products/150896/'> https://support.qq.com/products/150896/ </A>)
+(请访问在线论坛报名: <A href='https://support.qq.com/products/150896/' target='_new'> https://support.qq.com/products/150896/ </A>)
