@@ -1,16 +1,19 @@
 # main links links
 main:
   - title: "同学说"
-    url: /publications/
-
+    url: /talks/   
+    
   - title: "师兄师姐说"
-    url: /talks/    
+    url: /talk2/       
+
+  - title: "专家谈"
+    url: /publications/
+    
+  - title: "成长风采"
+    url: /portfolio/    
 
   - title: "训练营"
     url: /teaching/    
-    
-  - title: "成长风采"
-    url: /portfolio/
         
   - title: "服务"
     url: /year-archive/
