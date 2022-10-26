@@ -6,6 +6,8 @@ permalink: /archive-layout-with-content/
 
 A variety of common markup showing how the theme styles them.
 
+
+
 # Header one
 
 ## Header two
@@ -18,11 +20,15 @@ A variety of common markup showing how the theme styles them.
 
 ###### Header six
 
+
+
 ## Blockquotes
 
 Single line blockquote:
 
 > Quotes are cool.
+>
+> 
 
 ## Tables
 

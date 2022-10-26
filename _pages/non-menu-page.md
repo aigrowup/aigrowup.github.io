@@ -8,7 +8,9 @@ redirect_from:
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+
+
+这是一个临时页面
 
 Heading 1
 ======

@@ -15,11 +15,10 @@ main:
   - title: "服务"
     url: /year-archive/
     
-  - title: "关于"
+  - title: "召集"
     url: /cv/
     
-  - title: "指南"
+  - title: "讨论区"
     url: /markdown/
 
-  - title: "社区"
-    url: /bbs/
+  
